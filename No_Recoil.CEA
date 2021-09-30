@@ -1,0 +1,39 @@
+{ Game   : TotallyAccurateBattlegrounds.exe
+  Version: 
+  Date   : 1999-00-00
+  Author : SomeOne
+
+  This script Disable Gun Recoil
+}
+
+[ENABLE]
+
+aobscan(NoRecoil,55 48 8B EC 48 83 EC 70 48 89 75 F0 48 89 7D F8 48 8B F9 48 89) // should be unique
+alloc(newmem,$1000,NoRecoil)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  ret
+  mov rbp,rsp
+  sub rsp,70
+  jmp return
+
+NoRecoil:
+  jmp newmem
+  nop 3
+return:
+registersymbol(NoRecoil)
+
+[DISABLE]
+
+NoRecoil:
+  db 55 48 8B EC 48 83 EC 70
+
+unregistersymbol(NoRecoil)
+dealloc(newmem)
+
+{

@@ -1,0 +1,38 @@
+{ Game   : TotallyAccurateBattlegrounds.exe
+  Version: 
+  Date   : 1999-00-00
+  Author : SomeOne
+
+  This script give you unlimited ammo (you might get banned so do it at your own risk)
+}
+
+[ENABLE]
+
+aobscan(Unlimited_Using_Ammo,FF C8 89 87 A8 01 00 00) // should be unique
+alloc(newmem,$1000,Unlimited_Using_Ammo)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  inc eax
+  mov [rdi+000001A8],eax
+  jmp return
+
+Unlimited_Using_Ammo:
+  jmp newmem
+  nop 3
+return:
+registersymbol(Unlimited_Using_Ammo)
+
+[DISABLE]
+
+Unlimited_Using_Ammo:
+  db FF C8 89 87 A8 01 00 00
+
+unregistersymbol(Unlimited_Using_Ammo)
+dealloc(newmem)
+
+{
