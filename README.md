@@ -8,20 +8,22 @@
 
 ## Tutorial
 
-1-Launch the game
-2-Go to shooting range
-3-Get a gun
-4-Do what in the video below 👇
+- Launch the game
+- Go to shooting range
+- Get a gun
+- Do what in the video below 👇
 
 The Cheat Include:
 
-NoRecoil
-IncreasingAmmo('When you reload')
-UnlimitedAmmo('Might be Risky')
+NoRecoil<br>
+IncreasingAmmo('When you reload')<br>
+UnlimitedAmmo('Might be Risky')<br>
 
 ⚠️`Make Sure to close cheat engine after executing the cheats or the anti-cheat might detect it`⚠️
 
-![Tutorial](https://github.com/cripser/TABG_HACK/raw/main/Tutorial_Video.mp4)
+<video width="320" height="240" controls>
+  <source src="https://github.com/cripser/TABG_HACK/blob/main/Tutorial_Video.mp4" type="video/mp4">
+</video>
 
 ## Release
 Cheat Download link: [here](https://github.com/cripser/TABG_HACK/releases/download/TABG_HACK/TABG_HACK.zip)
