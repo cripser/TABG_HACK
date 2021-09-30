@@ -1,4 +1,4 @@
-#Totally Accurate Battlegrounds Undetectable Hack
+# Totally Accurate Battlegrounds Undetectable Hack
 
 ## Requirements
 
@@ -15,15 +15,13 @@
 
 The Cheat Include:
 
-NoRecoil<br>
-IncreasingAmmo('When you reload')<br>
-UnlimitedAmmo('Might be Risky')<br>
+- NoRecoil<br>
+- IncreasingAmmo('When you reload')<br>
+- UnlimitedAmmo('Might be Risky')<br>
 
 ⚠️`Make Sure to close cheat engine after executing the cheats or the anti-cheat might detect it`⚠️
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/cripser/TABG_HACK/blob/main/Tutorial_Video.mp4" type="video/mp4">
-</video>
+![Tutorial](https://transfer.sh/get/9RXAYE/Tutorial.gif)
 
 ## Release
 Cheat Download link: [here](https://github.com/cripser/TABG_HACK/releases/download/TABG_HACK/TABG_HACK.zip)
