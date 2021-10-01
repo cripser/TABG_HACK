@@ -21,7 +21,5 @@ The Cheat Include:
 
 ⚠️`Make Sure to close cheat engine after executing the cheats or the anti-cheat might detect it`⚠️
 
-![Tutorial](https://transfer.sh/get/9RXAYE/Tutorial.gif)
-
 ## Release
 Cheat Download link: [here](https://github.com/cripser/TABG_HACK/releases/download/TABG_HACK/TABG_HACK.zip)
