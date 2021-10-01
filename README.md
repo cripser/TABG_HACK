@@ -1,4 +1,4 @@
-# Totally Accurate Battlegrounds Undetectable Hack
+# Totally Accurate Battlegrounds Hack (Undetectable)
 
 ## Requirements
 
