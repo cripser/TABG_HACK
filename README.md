@@ -6,6 +6,11 @@
 
 ⚠️Also Cheat Engine Will `Not Work` if Riot Vanguard is installed⚠️
 
+## Donate
+
+Monero:84sN9jfAzefHCM31YxShJx93eC1Ru5YPZK5bHKkrv5yGcWixbVSU3gjFCMpS8mSc9BSvgN56vvRSg4YXTNT6482SLPB2LL2
+Doge:DNbUgpNcH6fAxAq1tFMTa2EsG5e9rUV3WF
+
 ## Tutorial
 
 - Launch the game
@@ -17,11 +22,11 @@ The Cheat Include:
 
 - NoRecoil<br>
 - IncreasingAmmo('When you reload')<br>
-- UnlimitedAmmo('Might be Risky')<br>
-
+- UnlimitedAmmo<br>
+- infiniteHealth<br>
 ⚠️`Make Sure to close cheat engine after executing the cheats or the anti-cheat might detect it`⚠️
 
 [![Watch the video](https://img.youtube.com/vi/o4u4VrRmk0w/maxresdefault.jpg)](https://youtu.be/o4u4VrRmk0w)
 
 ## Release
-Cheat Download link: [here](https://github.com/cripser/TABG_HACK/releases/download/TABG_HACK/TABG_HACK.zip)
+Cheat Download link: [here](https://github.com/cripser/TABG_HACK/releases/download/TABG_HACK-v1.1/TABG_HACK-v1.1.zip)
