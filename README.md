@@ -9,8 +9,7 @@
 ## Donate 
 For more cheates and updates:
 
-Monero:84sN9jfAzefHCM31YxShJx93eC1Ru5YPZK5bHKkrv5yGcWixbVSU3gjFCMpS8mSc9BSvgN56vvRSg4YXTNT6482SLPB2LL2
-Doge:DNbUgpNcH6fAxAq1tFMTa2EsG5e9rUV3WF
+Etehrum:0xF7B8CDa3831B03cC20d0208611ECf83E21E57edb
 
 ## Tutorial
 
@@ -25,13 +24,12 @@ The Cheat Include:
 - IncreasingAmmo('When you reload')<br>
 - UnlimitedAmmo<br>
 - infiniteHealth<br>
+
 ⚠️`Make Sure to close cheat engine after executing the cheats or the anti-cheat might detect it`⚠️
 
-[![Watch the video](https://img.youtube.com/vi/o4u4VrRmk0w/maxresdefault.jpg)](https://youtu.be/o4u4VrRmk0w)
+Video 👇<br>
 
-InfiniteHealth video 👇
-
-[![Watch the video](https://img.youtube.com/vi/_ehqCzfu1dA/maxresdefault.jpg)](https://youtu.be/_ehqCzfu1dA)
+https://user-images.githubusercontent.com/91681038/176990049-e7a0304e-1f6a-448b-a02f-741864ca5061.mp4
 
 ## Release
 Cheat Download link: [here](https://github.com/cripser/TABG_HACK/releases/download/TABG_HACK-v1.1/TABG_HACK-v1.1.zip)
