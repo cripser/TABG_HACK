@@ -1,0 +1,35 @@
+{ Game   : TotallyAccurateBattlegrounds.exe
+  Version: 
+  Date   : 2021-11-23
+  Author : SomeOne
+
+  This script give you Infinite Health
+}
+
+[ENABLE]
+
+aobscan(INJECT,F3 0F 10 40 64 F3 0F 5A C0 66 0F 57 C9 66 0F 2F C8 7A) // should be unique
+alloc(newmem,$1000,INJECT)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  mov [rax+64],0x42c80000
+  movss xmm0,[rax+64]
+  jmp return
+
+INJECT:
+  jmp newmem
+return:
+registersymbol(INJECT)
+
+[DISABLE]
+
+INJECT:
+  db F3 0F 10 40 64
+
+unregistersymbol(INJECT)
+dealloc(newmem)
