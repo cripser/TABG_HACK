@@ -9,7 +9,7 @@
 ## Donate 
 For more cheates and updates:
 
-Etehrum:0xF7B8CDa3831B03cC20d0208611ECf83E21E57edb
+Etherum:0xF7B8CDa3831B03cC20d0208611ECf83E21E57edb
 
 ## Tutorial
 
